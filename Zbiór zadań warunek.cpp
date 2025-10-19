@@ -81,3 +81,29 @@ int main()
 	cout << "Wszystek progamy zakonczyly dzialanie.";
 	return 0;
 }
+/*1. Sprawdzenie wieku i prawo do głosowania.
+Wczytaj wiek użytkownika.
+Jeśli >= 18 - "Masz prawo do głosowania".
+Jeśli < 18 "Nie masz prawa do głosowania”.
+
+	2. Ocena szkolna na podstawie wyniku procentowego
+	Wczytaj wynik procentowy z testu(0–100).
+	90–100 - „Ocena: celujący”,
+	75–89 - „Ocena : bardzo dobry”,
+	50–74 - „Ocena : dobry”,
+	< 50 - „Ocena : niedostateczny”.
+
+	3. Sprawdzenie liczby dodatniej lub ujemnej
+	Wczytaj liczbę całkowitą.
+	Jeśli dodatnia - „Liczba dodatnia”,
+	jeśli ujemna - „Liczba ujemna”,
+	jeśli 0 - „Liczba równa zero”.
+
+	4. Sprawdzenie czy liczba mieści się w zakresie 100–200 lub poza nim
+	Wczytaj liczbę.
+	Jeśli >= 100 i <= 200 - "Liczba w przedziale 100–200"
+	w przeciwnym razie - "Liczba poza przedziałem"
+
+	5. Sprawdzenie największej liczby z trzech wprowadzonych
+	Wczytaj trzy liczby.
+	Program wypisze, która jest największa.*/
