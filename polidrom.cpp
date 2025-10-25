@@ -24,4 +24,4 @@ int main() {
 		cout << "wyraz nie jest palindromem.";
 	}
 	return 0;
-	
+}
