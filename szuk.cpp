@@ -1,3 +1,4 @@
+#include<iostream>      
 #include<cstring>
 #include<cmath>
 #include<cctype>
@@ -27,3 +28,4 @@ int main() {
     cout << "liczba wystepuje: " << licz << " razy," << endl;
     return 0;
 }
+
