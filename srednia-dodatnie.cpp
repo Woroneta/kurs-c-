@@ -26,7 +26,10 @@ int main() {
 	if (suma == 0) {
 		cout << "nie ma dodatnich liczb.";
 	}
-	sre = suma / n;
-	cout << "średnia z dodatnich liczb wynosi: " << sre<<endl;
+	else {
+		sre = suma / n;
+		cout << "średnia z dodatnich liczb wynosi: " << sre << endl;
+	}
 	
-	ret
+	return 0;
+}
